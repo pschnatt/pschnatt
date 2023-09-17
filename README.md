@@ -16,7 +16,7 @@
 
 * [Instagram](https://www.instagram.com/pschnatt/)
 
-* * ⚠️ More Incomming ...
+* ⚠️ More Incomming ...
 
 
 <!--
