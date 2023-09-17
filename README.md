@@ -1,7 +1,9 @@
 ### Hi I'm Schnat, Welcome to my Github profile 👋
 
 * 🏫 2nd year KMITL Software Engineering Student
+
 * 🌱 I’m currently learning Java, Javascript, and more! 🔥
+
 * ⛺ batch#5 42Bangkok Cadet
 
 
