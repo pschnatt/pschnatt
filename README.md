@@ -1,6 +1,8 @@
-## Hi I'm Schnat, Welcome to my Github profile 👋
-
+<p align="center">
+### Hi I'm Schnat, Welcome to my Github profile 👋
+</p>
 * 🌱 I’m currently learning Java, Javascript, and more! 🔥
+
 
 
 <!--
