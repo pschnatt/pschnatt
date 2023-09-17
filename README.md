@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi I'm Schnat, Welcome to my Github profile 👋
+
+* 🌱 I’m currently learning Java, Javascript, and more! 🔥
+
 
 <!--
 **pschnatt/pschnatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
