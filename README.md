@@ -6,7 +6,13 @@
 
 * ⛺ batch#5 42Bangkok Cadet
 
+### Skills
 
+* 💻 Java, Python, C, C++
+
+### Contact me
+
+* [Instagram](https://www.instagram.com/pschnatt/)
 
 
 <!--
