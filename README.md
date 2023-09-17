@@ -10,9 +10,13 @@
 
 * 💻 Java, Python, C, C++
 
+* ⚠️ More Incomming ...
+
 ### Contact me
 
 * [Instagram](https://www.instagram.com/pschnatt/)
+
+* * ⚠️ More Incomming ...
 
 
 <!--
