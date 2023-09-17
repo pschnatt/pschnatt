@@ -1,5 +1,5 @@
 <p align="center">
-### Hi I'm Schnat, Welcome to my Github profile 👋
+<h2>Hi I'm Schnat, Welcome to my Github profile 👋</h2>
 </p>
 * 🌱 I’m currently learning Java, Javascript, and more! 🔥
 
