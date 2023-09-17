@@ -2,7 +2,7 @@
 * 🌱 I’m currently learning Java, Javascript, and more! 🔥
 
 * Skills :
-  <img src='[figure/rstudio.png](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png)' width='200' hegiht='200'>
+  ![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png) "Logo Title Text 1")
 
 
 
