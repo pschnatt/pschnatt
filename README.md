@@ -1,8 +1,9 @@
 ### Hi I'm Schnat, Welcome to my Github profile 👋
-* 🌱 I’m currently learning Java, Javascript, and more! 🔥
 
-* Skills :
-  ![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png) "Logo Title Text 1")
+* 🏫 2nd year KMITL Software Engineering Student
+* 🌱 I’m currently learning Java, Javascript, and more! 🔥
+* ⛺ batch#5 42Bangkok Cadet
+
 
 
 
