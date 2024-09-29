@@ -2,7 +2,7 @@
 
 * 🏫 3rd year KMITL Software Engineering Student
 
-* 🌱 I’m currently Agoda Back-End Engineer Intern 🔥
+* 🌱 I’m currently Agoda Back-End Engineer Intern
 
 * ⛺ batch#5 42Bangkok Cadet
 
