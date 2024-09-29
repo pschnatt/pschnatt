@@ -1,14 +1,14 @@
 ### Hi I'm Schnat, Welcome to my Github profile 👋
 
-* 🏫 2nd year KMITL Software Engineering Student
+* 🏫 3rd year KMITL Software Engineering Student
 
-* 🌱 I’m currently learning Java, Javascript, and more! 🔥
+* 🌱 I’m currently Agoda Back-End Engineer Intern 🔥
 
 * ⛺ batch#5 42Bangkok Cadet
 
 ### Skills
 
-* 💻 Java, Python, C, C++
+* 💻 Java, Python, C, C# .net, Scala
 
 * ⚠️ More Incoming ...
 
